@@ -1,0 +1,3 @@
+[submodule "sloop"]
+	path = sloop
+	url = ../sloop
